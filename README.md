@@ -208,6 +208,8 @@ p.note { display: none; }
 <a href="20260814_019.jpeg" target="_blank"><img src="20260814_019.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260814_020.jpeg" target="_blank"><img src="20260814_020.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260814_021.jpeg" target="_blank"><img src="20260814_021.jpeg" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">雨続きの空には青空が除くこともありましたが、この後も結構な雨降りでした</span></h2>
 <a href="20260814_022.jpeg" target="_blank"><img src="20260814_022.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 
